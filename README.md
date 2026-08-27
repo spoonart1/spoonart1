@@ -15,8 +15,12 @@ and clean architecture at scale.
 
 ### SWAT Driver 2 — Mobility
 Driver-facing app powering ride dispatch and navigation for a regional mobility platform.
-- **My role:** [e.g., Senior Android Engineer — led navigation module rewrite]
-- **Impact:** [e.g., Reduced ANR rate significantly / shipped Mapbox → MapLibre migration]
+- **My role:** Senior Android Engineer — led navigation module rewrite
+- **Impact:**
+  - Reduced ANR rate significantly (Fix leak, moshi
+  - shipped Mapbox → Ferrostar migration
+  - Increased Crash Free user rate
+  - Initiated CI/CD (Fastlane, Bitbucket Runner)
 - **Tech:** Kotlin · Jetpack Compose · Mapbox · Navigation SDK · Coroutines
 
 [▶ Google Play](https://play.google.com/store/apps/details?id=com.swatrider.swatdeliverydriver.android.swatbiz&hl=en-US)
@@ -25,8 +29,12 @@ Driver-facing app powering ride dispatch and navigation for a regional mobility 
 
 ### MokaPOS — Fintech / Retail
 Point-of-Sale app for Indonesian merchants — payments, KYC/KYB, transactions, receipts.
-- **My role:** [e.g., Senior Android Engineer on core payments team]
-- **Impact:** [e.g., Improved crash-free sessions / owned KYB flow end-to-end]
+- **My role:** Senior Android Engineer (promoted to Engineering Manager)
+- **Impact:**
+  - Led the team 
+  - Improved crash-free user rate up to 99.8% / owned KYB flow end-to-end, shopping card, e-wallet payments
+  - Improved app rating from 3 to 4.7+
+  - Active users 1M+
 - **Tech:** Kotlin · MVVM · Clean Architecture · Room · REST
 
 [▶ Google Play](https://play.google.com/store/search?q=mokapos&c=apps&hl=en-US)
@@ -35,8 +43,12 @@ Point-of-Sale app for Indonesian merchants — payments, KYC/KYB, transactions, 
 
 ### Moladin Agent — Automotive Fintech
 Field-sales app for automotive financing agents.
-- **My role:** [e.g., Android Engineer — modularization & legacy migration]
-- **Impact:** [e.g., Reduced build times by X / migrated Java → Kotlin]
+- **My role:**
+  - Senior Android Engineer — modularization & legacy migration
+- **Impact:**
+  - Reduced build times by 3x
+  - migrated Java → Kotlin
+  - Initiated CI/CD with Jenkins (Gradle, Gitlab, Jenkins)
 - **Tech:** Kotlin · MVVM · Coroutines · Flow
 
 [▶ Google Play](https://play.google.com/store/search?q=moladin+agent&c=apps&hl=en-US)
