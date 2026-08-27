@@ -45,6 +45,63 @@ My focus is on **Kotlin, Jetpack Compose, scalable mobile architecture, and engi
 
 ---
 
+## Tech Stack
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,androidstudio" />
+</p>
+
+### UI & Architecture
+
+`Jetpack Compose` `MVVM` `Clean Architecture` `Multi-Module`
+`Coroutines` `Flow` `Dependency Injection`
+
+### Data
+
+`Room` `SQL` `SQLite`
+
+### Testing & Automation
+
+`UI Automation` `Appium` `Playwright` `Gherkin`
+`BDD` `End-to-End Testing`
+
+### Build & Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gradle,docker,git,githubactions" />
+</p>
+
+`Fastlane` `CI/CD`
+
+### Maps & Navigation
+
+`Mapbox` `Ferrostar` `MapLibre` `Location Services` `Routing`
+
+### AI-Assisted Development
+
+`Claude Code` `AI Coding Agents` `AI-Assisted Development`
+
+### Architecture & Data
+
+`MVVM` `Clean Architecture` `Multi-Module`
+`Coroutines` `Flow` `Room` `SQL`
+
+### Build & Delivery
+
+`Gradle` `Fastlane` `Docker` `CI/CD`
+
+### Maps & Navigation
+
+`Mapbox` `Ferrostar` `MapLibre`
+
+### AI-Assisted Development
+
+`Claude Code` `AI Coding Agents`
+
+---
+
 ## Selected Engineering Work
 
 ### 🚚 SWAT Driver
