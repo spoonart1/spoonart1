@@ -36,7 +36,7 @@ Point-of-Sale app for Indonesian merchants — payments, KYC/KYB, transactions, 
   * Owned KYB onboarding, shopping cart, and e-wallet payment flows end-to-end
 - **Tech:** Kotlin · MVVM · Clean Architecture · Room · REST
 
-[▶ Google Play](https://play.google.com/store/search?q=mokapos&c=apps&hl=en-US)
+[▶ Google Play](https://play.google.com/store/apps/details?id=com.mokapos.android&hl=en-US)
 
 ---
 
@@ -48,7 +48,7 @@ Field-sales app for automotive financing agents.
   * Established CI/CD pipeline using Jenkins, Gradle, and GitLab
 - **Tech:** Kotlin · MVVM · Coroutines · Flow
 
-[▶ Google Play](https://play.google.com/store/search?q=moladin+agent&c=apps&hl=en-US)
+[▶ Google Play](https://play.google.com/store/apps/details?id=com.moladin.moladinagent&hl=en-US)
 
 
 ### Earlier work (game dev, older Android apps): see [`/portfolio`](./portfolio)
