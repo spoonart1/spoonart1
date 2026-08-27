@@ -85,6 +85,27 @@ and architecture decisions that hold up at scale.
 
 ---
 
+## Engineering Interests
+
+I'm particularly interested in:
+
+Scalable Android architecture
+Jetpack Compose and modern Android development
+Mobile navigation and location-based applications
+Legacy code modernization
+Developer productivity
+AI-assisted software engineering
+Building practical software with small, focused teams
+
+---
+
+## Current Focus
+
+I'm currently exploring how AI coding agents can improve the software development lifecycle — from understanding an existing codebase and planning implementation to coding, testing, refactoring, and review.
+
+The goal isn't to replace engineering judgment, but to use AI to make experienced engineers faster and more effective.
+
+
 ## 📫 Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/m-lafran-pane-39593913a/) · [Email](mailto:myspoonart@gmail.com) · [GitHub](https://github.com/spoonart1)
