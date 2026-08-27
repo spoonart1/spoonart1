@@ -1,153 +1,80 @@
 # Hi, I'm Lafran 👋
 
-### Senior Android Engineer | Kotlin • Jetpack Compose • Mobile Architecture • AI-Assisted Development
+### Senior Android Engineer · 10+ years · Indonesia
 
-Senior Android Engineer with 10+ years of software development experience, specializing in building and modernizing production-grade Android applications.
+Building production Android apps used by drivers, merchants, and sales agents 
+across Southeast Asia. Kotlin-first, Compose-forward, obsessed with stability 
+and clean architecture at scale.
 
-My focus is on **Kotlin, Jetpack Compose, scalable mobile architecture, and engineering productivity through AI-assisted development**.
-
----
-
-## About Me
-
-* 📱 10+ years of software development experience
-* 🧑‍💻 Specialized in Android development with Kotlin
-* 🏗️ Experienced in MVVM, Clean Architecture, and multi-module applications
-* 🎨 Building modern Android UIs with Jetpack Compose
-* 🗺️ Experience with location-based applications, navigation, routing, and mapping
-* 🔄 Experienced in modernizing legacy Android codebases
-* 🤖 Exploring and applying AI-assisted development with tools such as Claude Code
-* 👥 Experience as Android Engineer, Lead Android Engineer, and Engineering Manager
+🟢 **Currently:** Senior Android Developer @SWAT-Mobility  
+📬 **Open to:** Senior Android IC roles · Remote
 
 ---
 
-## Core Expertise
+## 📱 Selected Work
 
-### Android
+### SWAT Driver 2 — Mobility
+Driver-facing app powering ride dispatch and navigation for a regional mobility platform.
+- **My role:** [e.g., Senior Android Engineer — led navigation module rewrite]
+- **Impact:** [e.g., Reduced ANR rate significantly / shipped Mapbox → MapLibre migration]
+- **Tech:** Kotlin · Jetpack Compose · Mapbox · Navigation SDK · Coroutines
 
-`Kotlin` `Jetpack Compose` `Coroutines` `Flow` `Android SDK` `Room` `WorkManager`
-
-### Architecture
-
-`MVVM` `Clean Architecture` `Multi-Module` `Repository Pattern` `Dependency Injection`
-
-### Navigation & Maps
-
-`Mapbox` `Ferrostar` `MapLibre` `Location Services` `Routing`
-
-### Engineering
-
-`CI/CD` `Git` `Code Review` `Testing` `Legacy Code Modernization`
-
-### AI-Assisted Development
-
-`Claude Code` `AI Coding Agents` `AI-Assisted Code Generation` `AI-Assisted Refactoring`
+[▶ Google Play](https://play.google.com/store/apps/details?id=com.swatrider.swatdeliverydriver.android.swatbiz&hl=en-US)
 
 ---
 
-## Tech Stack
+### MokaPOS — Fintech / Retail
+Point-of-Sale app for Indonesian merchants — payments, KYC/KYB, transactions, receipts.
+- **My role:** [e.g., Senior Android Engineer on core payments team]
+- **Impact:** [e.g., Improved crash-free sessions / owned KYB flow end-to-end]
+- **Tech:** Kotlin · MVVM · Clean Architecture · Room · REST
 
-### Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,androidstudio" />
-</p>
-
-### UI & Architecture
-
-`Jetpack Compose` `MVVM` `Clean Architecture` `Multi-Module`
-`Coroutines` `Flow` `Dependency Injection`
-
-### Data
-
-`Room` `SQL` `SQLite`
-
-### Testing & Automation
-
-`UI Automation` `Appium` `Playwright` `Gherkin`
-`BDD` `End-to-End Testing`
-
-### Build & Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gradle,docker,git,githubactions" />
-</p>
-
-`Fastlane` `CI/CD`
-
-### Maps & Navigation
-
-`Mapbox` `Ferrostar` `MapLibre` `Location Services` `Routing`
-
-### AI-Assisted Development
-
-`Claude Code` `AI Coding Agents` `AI-Assisted Development`
-
-### Architecture & Data
-
-`MVVM` `Clean Architecture` `Multi-Module`
-`Coroutines` `Flow` `Room` `SQL`
-
-### Build & Delivery
-
-`Gradle` `Fastlane` `Docker` `CI/CD`
-
-### Maps & Navigation
-
-`Mapbox` `Ferrostar` `MapLibre`
-
-### AI-Assisted Development
-
-`Claude Code` `AI Coding Agents`
+[▶ Google Play](https://play.google.com/store/search?q=mokapos&c=apps&hl=en-US)
 
 ---
 
-## Selected Engineering Work
+### Moladin Agent — Automotive Fintech
+Field-sales app for automotive financing agents.
+- **My role:** [e.g., Android Engineer — modularization & legacy migration]
+- **Impact:** [e.g., Reduced build times by X / migrated Java → Kotlin]
+- **Tech:** Kotlin · MVVM · Coroutines · Flow
 
-### 🚚 SWAT Driver
+[▶ Google Play](https://play.google.com/store/search?q=moladin+agent&c=apps&hl=en-US)
 
-Production Android application supporting **Passenger and Logistics** workflows.
-
-As the Android engineer responsible for the application, I worked across the product from core application features to navigation and architecture.
-
-**Highlights:**
-
-* Built features across Passenger and Logistics workflows
-* Developed custom navigation and routing functionality
-* Worked with Mapbox Navigation and later migrated toward Ferrostar
-* Migrated parts of the application to Jetpack Compose
-* Worked with multi-module architecture
-* Supported production usage with hundreds of active logistics drivers
-* Designed features around high-volume daily delivery operations
-
-> Proprietary source code is not publicly available, so this experience is documented through technical case studies rather than source code.
+> Earlier work (game dev, older Android apps): see [`/portfolio`](./portfolio)
 
 ---
 
-## Engineering Interests
+## 🛠️ Tech Stack
 
-I'm particularly interested in:
+**Primary:** 
+- `Kotlin · Jetpack Compose · Coroutines · Flow · MVVM · Clean Architecture`  
 
-* Scalable Android architecture
-* Jetpack Compose and modern Android development
-* Mobile navigation and location-based applications
-* Legacy code modernization
-* Developer productivity
-* AI-assisted software engineering
-* Building practical software with small, focused teams
+**Android:** 
+- `Android SDK · Room · Navigation · WorkManager · Paging 3 · Modularization`
+
+**Maps:** 
+- `Mapbox · MapLibre · Navigation SDK`
+
+**Test** 
+- `Unit Test · UI Automation Test: BDD · Gherkin · Appium · Playwright`
+
+**AI-Assisted Development** 
+- `Claude Code · AI Coding Agents`
+
+**Also:** 
+- `Java · RxJava · Firebase · REST · CI/CD · Git`
 
 ---
 
-## Current Focus
+## 💡 What I bring to a team
 
-I'm currently exploring how **AI coding agents can improve the software development lifecycle** — from understanding an existing codebase and planning implementation to coding, testing, refactoring, and review.
-
-The goal isn't to replace engineering judgment, but to use AI to make experienced engineers **faster and more effective**.
+Beyond shipping features: technical mentoring, cross-functional collaboration 
+with Product/QA/Backend, legacy code migration, Android OS compatibility work, 
+and architecture decisions that hold up at scale.
 
 ---
 
-## Let's Connect
+## 📫 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/m-lafran-pane-39593913a/)
-
-[GitHub](https://github.com/spoonart1)
+[LinkedIn](https://www.linkedin.com/in/m-lafran-pane-39593913a/) · [Email](mailto:myspoonart@gmail.com) · [GitHub](https://github.com/spoonart1)
