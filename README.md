@@ -91,6 +91,6 @@ The goal isn't to replace engineering judgment, but to use AI to make experience
 
 ## Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/spoonart1/)
+[LinkedIn](https://www.linkedin.com/in/m-lafran-pane-39593913a/)
 
 [GitHub](https://github.com/spoonart1)
