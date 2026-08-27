@@ -17,24 +17,23 @@ and clean architecture at scale.
 Driver-facing app powering ride dispatch and navigation for a regional mobility platform.
 - **My role:** Senior Android Engineer — led navigation module rewrite
 - **Impact:**
-  - Reduced ANR rate significantly (Fix leak, moshi
+  - Reduced ANR rate significantly by fixing memory leaks and Moshi parsing issues
   - shipped Mapbox → Ferrostar migration
-  - Increased Crash Free user rate
-  - Initiated CI/CD (Fastlane, Bitbucket Runner)
+  - Improved crash-free user rate to [97%] (prev: 77%)
+  - Initiated CI/CD pipeline (Fastlane + Bitbucket Runner)
 - **Tech:** Kotlin · Jetpack Compose · Mapbox · Navigation SDK · Coroutines
 
 [▶ Google Play](https://play.google.com/store/apps/details?id=com.swatrider.swatdeliverydriver.android.swatbiz&hl=en-US)
 
 ---
 
-### MokaPOS — Fintech / Retail
+### MokaPOS — Fintech / Retail (active users: 1M+)
 Point-of-Sale app for Indonesian merchants — payments, KYC/KYB, transactions, receipts.
 - **My role:** Senior Android Engineer (promoted to Engineering Manager)
 - **Impact:**
-  - Led the team 
-  - Improved crash-free user rate up to 99.8% / owned KYB flow end-to-end, shopping card, e-wallet payments
-  - Improved app rating from 3 to 4.7+
-  - Active users 1M+
+  * Improved crash-free user rate to 99.8%
+  * Lifted Play Store rating from 3.0 → 4.7+
+  * Owned KYB onboarding, shopping cart, and e-wallet payment flows end-to-end
 - **Tech:** Kotlin · MVVM · Clean Architecture · Room · REST
 
 [▶ Google Play](https://play.google.com/store/search?q=mokapos&c=apps&hl=en-US)
@@ -43,17 +42,16 @@ Point-of-Sale app for Indonesian merchants — payments, KYC/KYB, transactions, 
 
 ### Moladin Agent — Automotive Fintech
 Field-sales app for automotive financing agents.
-- **My role:**
-  - Senior Android Engineer — modularization & legacy migration
+- **My role:** Senior Android Engineer — modularization & legacy migration
 - **Impact:**
-  - Reduced build times by 3x
-  - migrated Java → Kotlin
-  - Initiated CI/CD with Jenkins (Gradle, Gitlab, Jenkins)
+  * Migrated codebase from Java to Kotlin
+  * Established CI/CD pipeline using Jenkins, Gradle, and GitLab
 - **Tech:** Kotlin · MVVM · Coroutines · Flow
 
 [▶ Google Play](https://play.google.com/store/search?q=moladin+agent&c=apps&hl=en-US)
 
-> Earlier work (game dev, older Android apps): see [`/portfolio`](./portfolio)
+
+### Earlier work (game dev, older Android apps): see [`/portfolio`](./portfolio)
 
 ---
 
