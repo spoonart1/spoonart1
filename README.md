@@ -6,7 +6,7 @@ I take Android apps that crash and make them boring. Kotlin-first, Compose-forwa
 dispatch, navigation and payments for more than a million people across Southeast Asia.
 
 🟢 **Currently:** Senior Android Developer @ SWAT Mobility
-📬 **Open to:** Senior Android IC roles · Remote
+📬 **Open to:** Senior Android IC / Lead roles · Remote
 🔗 **Portfolio:** https://spoonart1.github.io/
 
 ---
