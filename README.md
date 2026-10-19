@@ -15,7 +15,7 @@ dispatch, navigation and payments for more than a million people across Southeas
 
 | | Before | After | Where |
 |---|---|---|---|
-| Crash-free users | 82% | **99.3%** | Moka POS — in two months |
+| Crash-free users | 82% | **99.8%** | Moka POS — in two months |
 | App modules | 1 | **37** | SWAT Mobility |
 | Releases via CI/CD | 0% | **100%** | SWAT — Play Store, Firebase, Huawei |
 
